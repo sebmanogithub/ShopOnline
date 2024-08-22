@@ -1,0 +1,4 @@
+EntityFrameworkcore.SqlServer
+EntityFrameworkcore.Tools (Pour la migration via visual studio)
+
+

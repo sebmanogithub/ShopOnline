@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HM8qPILBi9HsjUhq2YTDl05j7mVaYr0cVvk1fbvGyTYcOpwJ4XU7PvzqSjbkZZ+xTYCVP6iemKdWFfrQAXfzGA==",
+  "dgSpecHash": "/lOJPe/iK3VUw+sLgg7Ef5aOlsxTSvj1L49RloAEFEeFe7m5W0eKA7j8gUvYc/mndm8kIWGxGdcujuscdTtu9w==",
   "success": true,
-  "projectFilePath": "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+  "projectFilePath": "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Api\\ShopOnline.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

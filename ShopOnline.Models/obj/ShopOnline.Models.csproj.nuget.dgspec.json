@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {}
+    "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Models\\ShopOnline.Models.csproj": {}
   },
   "projects": {
-    "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+    "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Models\\ShopOnline.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectUniqueName": "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "projectName": "ShopOnline.Models",
-        "projectPath": "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectPath": "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
+        "outputPath": "E:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
