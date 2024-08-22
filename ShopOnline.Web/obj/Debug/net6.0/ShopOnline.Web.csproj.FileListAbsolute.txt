@@ -1638,3 +1638,11 @@ E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.We
 E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
+E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
+E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
+E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
+E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
+E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
+E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
+E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\compressed\wr80sda6un.gz
+E:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\compressed\9s6k0h7b07.gz
