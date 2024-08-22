@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetEnCours\\ShopOnlineProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71482165-18C2-43EB-B4C0-8FF4B5A89115}|ShopOnline.Web\\ShopOnline.Web.csproj|g:\\projetencours\\shoponlineproject\\shoponline.web\\pages\\displayproducts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71482165-18C2-43EB-B4C0-8FF4B5A89115}|ShopOnline.Web\\ShopOnline.Web.csproj|solutionrelative:shoponline.web\\pages\\displayproducts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71482165-18C2-43EB-B4C0-8FF4B5A89115}|ShopOnline.Web\\ShopOnline.Web.csproj|g:\\projetencours\\shoponlineproject\\shoponline.web\\pages\\displayproductsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71482165-18C2-43EB-B4C0-8FF4B5A89115}|ShopOnline.Web\\ShopOnline.Web.csproj|solutionrelative:shoponline.web\\pages\\displayproductsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71482165-18C2-43EB-B4C0-8FF4B5A89115}|ShopOnline.Web\\ShopOnline.Web.csproj|g:\\projetencours\\shoponlineproject\\shoponline.web\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71482165-18C2-43EB-B4C0-8FF4B5A89115}|ShopOnline.Web\\ShopOnline.Web.csproj|solutionrelative:shoponline.web\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71482165-18C2-43EB-B4C0-8FF4B5A89115}|ShopOnline.Web\\ShopOnline.Web.csproj|g:\\projetencours\\shoponlineproject\\shoponline.web\\pages\\productsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71482165-18C2-43EB-B4C0-8FF4B5A89115}|ShopOnline.Web\\ShopOnline.Web.csproj|solutionrelative:shoponline.web\\pages\\productsbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayProducts.razor",
+              "DocumentMoniker": "G:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Web\\Pages\\DisplayProducts.razor",
+              "RelativeDocumentMoniker": "ShopOnline.Web\\Pages\\DisplayProducts.razor",
+              "ToolTip": "G:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Web\\Pages\\DisplayProducts.razor",
+              "RelativeToolTip": "ShopOnline.Web\\Pages\\DisplayProducts.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T08:30:34.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsBase.cs",
+              "DocumentMoniker": "G:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Web\\Pages\\ProductsBase.cs",
+              "RelativeDocumentMoniker": "ShopOnline.Web\\Pages\\ProductsBase.cs",
+              "ToolTip": "G:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Web\\Pages\\ProductsBase.cs",
+              "RelativeToolTip": "ShopOnline.Web\\Pages\\ProductsBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:21:59.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayProductsBase.cs",
+              "DocumentMoniker": "G:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Web\\Pages\\DisplayProductsBase.cs",
+              "RelativeDocumentMoniker": "ShopOnline.Web\\Pages\\DisplayProductsBase.cs",
+              "ToolTip": "G:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Web\\Pages\\DisplayProductsBase.cs",
+              "RelativeToolTip": "ShopOnline.Web\\Pages\\DisplayProductsBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:02:41.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.razor",
+              "DocumentMoniker": "G:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Web\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "ShopOnline.Web\\Pages\\Products.razor",
+              "ToolTip": "G:\\ProjetEnCours\\ShopOnlineProject\\ShopOnline.Web\\Pages\\Products.razor",
+              "RelativeToolTip": "ShopOnline.Web\\Pages\\Products.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T07:58:15.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
