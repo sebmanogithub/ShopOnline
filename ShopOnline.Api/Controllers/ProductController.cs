@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using ShopOnline.Api.Extensions;
 using ShopOnline.Api.Repositories.Contracts;
 using ShopOnline.Models.Dtos;
@@ -38,7 +36,7 @@ namespace ShopOnline.Api.Controllers
             }
             catch (Exception)
             {
-                return StatusCode(StatusCodes.Status422UnprocessableEntity, "Error retrieving data from the database");
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error retrieving data from the database");
             }
         }
 
