@@ -2474,3 +2474,5 @@ G:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.We
 G:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 G:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 G:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
+G:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+G:\ProjetEnCours\ShopOnlineProject\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
